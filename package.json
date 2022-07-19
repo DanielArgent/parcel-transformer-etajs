@@ -1,6 +1,6 @@
 {
   "name": "parcel-transformer-etajs",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "This plugin for Parcel useful for processing Eta templates.",
   "main": "index.js",
   "type": "commonjs",
